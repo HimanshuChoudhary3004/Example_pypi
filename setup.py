@@ -4,10 +4,10 @@ with open("README.md","r",encoding="utf-8") as f:
     long_description=f.read()
 
 __version__="0.0.0"
-Repo_name="your repository name"
+Repo_name="example_pypi"
 author_name="your name"
 author_email="your email address"
-src_repo="your project name"
+src_repo="Example_pypi"
 
 
 setuptools.setup(

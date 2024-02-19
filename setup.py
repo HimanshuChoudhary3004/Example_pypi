@@ -5,8 +5,8 @@ with open("README.md","r",encoding="utf-8") as f:
 
 __version__="0.0.0"
 Repo_name="example_pypi"
-author_name="your name"
-author_email="your email address"
+author_name="Himanshu Choudhary"
+author_email="hchoudhary525@gmail.com"
 src_repo="Example_pypi"
 
 
